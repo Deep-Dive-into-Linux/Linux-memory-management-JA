@@ -1,0 +1,33 @@
+{
+  "editor.formatOnSave": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/node_modules": true
+  },
+  // C/C++
+  "C_Cpp.formatting": "clangFormat",
+  "C_Cpp.codeAnalysis.clangTidy.enabled": true,
+  "C_Cpp.default.cStandard": "c23",
+  "C_Cpp.default.cppStandard": "c++23",
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  // python
+  "python.defaultInterpreterPath": "~/.pyenv/shims/python",
+  // Shell
+  "shellformat.path": "/opt/homebrew/bin/shfmt",
+  "[shellscript]": {
+    "files.eol": "\n",
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "cSpell.words": [],
+  "files.associations": {
+    "stdlib.h": "c",
+    "stdio.h": "c"
+  }
+}
