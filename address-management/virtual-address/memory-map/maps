@@ -1,0 +1,23 @@
+00400000-00401000 r--p 00000000 103:01 8764467                           /home/ec2-user/work/main
+00401000-00402000 r-xp 00001000 103:01 8764467                           /home/ec2-user/work/main
+00402000-00403000 r--p 00002000 103:01 8764467                           /home/ec2-user/work/main
+00403000-00404000 r--p 00002000 103:01 8764467                           /home/ec2-user/work/main
+00404000-00405000 rw-p 00003000 103:01 8764467                           /home/ec2-user/work/main
+08fd8000-08ff9000 rw-p 00000000 00:00 0                                  [heap]
+7f80ed000000-7f80ed028000 r--p 00000000 103:01 8525642                   /usr/lib64/libc.so.6
+7f80ed028000-7f80ed19d000 r-xp 00028000 103:01 8525642                   /usr/lib64/libc.so.6
+7f80ed19d000-7f80ed1f5000 r--p 0019d000 103:01 8525642                   /usr/lib64/libc.so.6
+7f80ed1f5000-7f80ed1f9000 r--p 001f5000 103:01 8525642                   /usr/lib64/libc.so.6
+7f80ed1f9000-7f80ed1fb000 rw-p 001f9000 103:01 8525642                   /usr/lib64/libc.so.6
+7f80ed1fb000-7f80ed208000 rw-p 00000000 00:00 0
+7f80ed318000-7f80ed31b000 rw-p 00000000 00:00 0
+7f80ed31f000-7f80ed321000 rw-p 00000000 00:00 0
+7f80ed321000-7f80ed323000 r--p 00000000 103:01 8525638                   /usr/lib64/ld-linux-x86-64.so.2
+7f80ed323000-7f80ed34a000 r-xp 00002000 103:01 8525638                   /usr/lib64/ld-linux-x86-64.so.2
+7f80ed34a000-7f80ed355000 r--p 00029000 103:01 8525638                   /usr/lib64/ld-linux-x86-64.so.2
+7f80ed355000-7f80ed357000 r--p 00034000 103:01 8525638                   /usr/lib64/ld-linux-x86-64.so.2
+7f80ed357000-7f80ed359000 rw-p 00036000 103:01 8525638                   /usr/lib64/ld-linux-x86-64.so.2
+7ffcfbfcb000-7ffcfbfec000 rw-p 00000000 00:00 0                          [stack]
+7ffcfbff4000-7ffcfbff8000 r--p 00000000 00:00 0                          [vvar]
+7ffcfbff8000-7ffcfbffa000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]
